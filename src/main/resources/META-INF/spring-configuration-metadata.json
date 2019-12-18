@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "file_store.path.root",
+      "type": "java.lang.String",
+      "description": "File storage root folder"
+    }
+  ]
+}
