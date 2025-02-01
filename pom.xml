@@ -23,7 +23,7 @@
     <properties>
         <jacoco_report>${project.build.directory}/coverage-reports/jacoco.exec</jacoco_report>
         <!-- Swagger2: https://mvnrepository.com/artifact/io.springfox/springfox-swagger2 -->
-        <springfox>2.9.2</springfox>
+        <springfox>2.10.0</springfox>
     </properties>
 
     <dependencyManagement>
